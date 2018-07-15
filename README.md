@@ -1,4 +1,4 @@
-#Location finder
+# Location finder
 This app allow users to enter a Postcode and then provides details relevant to the postcode entered. It fetch data from Third party API.
 It is built using Vanilla JavaScript.
 
